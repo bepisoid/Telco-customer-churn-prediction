@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb
+.ipynb_checkpoints/
+.pytest_cache/
+src/churn.egg-info/
+notebooks/catboost_info/
